@@ -70,26 +70,3 @@ $ns at 15 "$ftp2 stop"
 $ns at 16 "finish"
 
 $ns run
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
